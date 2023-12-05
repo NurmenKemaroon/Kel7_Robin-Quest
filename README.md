@@ -1,7 +1,7 @@
 
 # Kel7_Robin-Quest
 
-[Robin Quest is a 2D adventure puzzle game that delivers an engaging interactive experience with a combination of captivating visuals and immersive audio. . This game level is a history where in each story there are different obstacles and puzzles. The locations played are forests, caves, and castles. The game mechanics are designed to not only consider the entertainment aspect, but also encourage players to develop patience and analysis skills. The player's success in completing the adventure in this game depends on his ability to solve the various puzzles embedded in the storyline.]
+[Robin Quest is a 2D adventure puzzle game that delivers an engaging interactive experience with a combination of captivating visuals and immersive audio. This game level is a history where in each story there are different obstacles and puzzles. The locations played are forests, caves, and castles. The game mechanics are designed to not only consider the entertainment aspect, but also encourage players to develop patience and analysis skills. The player's success in completing the adventure in this game depends on his ability to solve the various puzzles embedded in the storyline.]
 
 Robin quest game features:
 1. Application of A star artificial intelligence algorithm
